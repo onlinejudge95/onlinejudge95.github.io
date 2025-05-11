@@ -1,0 +1,70 @@
+baseurl = "http://courtroom.cloud"
+title = "courtroom"
+theme = "hugo-coder"
+languagecode = "en"
+defaultcontentlanguage = "en"
+
+
+[pagination]
+pagerSize = 20
+
+[services]
+[services.disqus]
+shortname = "yourdiscussshortname"
+
+[markup.highlight]
+style = "github-dark"
+
+[params]
+author = "Mayank Pathak"
+info = "..."
+description = "onlinejudge95's personal website"
+keywords = "blog,developer,personal"
+avatarurl = "images/avatar.jpg"
+faviconSVG = "images/favicon.svg"
+favicon_32 = "images/favicon.svg"
+favicon_16 = "images/favicon.svg"
+since = 2025
+enableTwemoji = true
+colorScheme = "auto"
+hidecolorschemetoggle = false
+
+[taxonomies]
+category = "categories"
+series = "series"
+tag = "tags"
+author = "authors"
+
+# Social links
+[[params.social]]
+name = "Github"
+icon = "fa-brands fa-github fa-2x"
+weight = 1
+url = "https://github.com/onlinejudge95/"
+[[params.social]]
+name = "Gitlab"
+icon = "fa-brands fa-gitlab fa-2x"
+weight = 2
+url = "https://gitlab.com/onlinejudge95/"
+[[params.social]]
+name = "Instagram"
+icon = "fa-brands fa-instagram fa-2x"
+weight = 2
+url = "https://www.instagram.com/yet_another_astro_guy/"
+[[params.social]]
+name = "RSS"
+icon = "fa-solid fa-rss fa-2x"
+weight = 6
+url = "http://courtroom.cloud/index.xml"
+rel = "alternate"
+type = "application/rss+xml"
+
+# Menu links
+[[menu.main]]
+name = "Blog"
+weight = 1
+url  = "posts/"
+[[menu.main]]
+name = "About"
+weight = 2
+url = "about/"
