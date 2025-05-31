@@ -27,8 +27,18 @@ For the sake of brevity I have categorised the list in sub groups of relevant se
   - [Walker 55L Rucksack](https://tripole.in/products/walker-55-litre-trekking-and-backpacking?variant=52991265440035) This rucksack has helped me in going for a 8 days outdoor trip and I was able to fill in most of my stuff, provided that the sleeping bag as mentioned above is a bit voluminous, so be ready for putting a organiser pack outside instead.
 
 - Food
-- Communications
+
+  - [Camping Cookware](https://www.amazon.in/dp/B01743BX1A) This is a set of cokking utensils that I use for cooking my meals.
+  - [Butane gas can](https://www.amazon.in/dp/B0CKTKL1P5) I carry 2 of these which help me for a meal setup for 4-5 days, also this setup is typically used not during transit but during the time when I am pitching tent. Using it this way helps me in using them for warmth in emergency conditions.
+  - [Portable Stove](https://www.amazon.in/SKADIOO-stove-gas-Stainless-Equipment/dp/B0BF4R8QLW) This is the heart of the cooking operations while camping, There is not much complexity in usage, connect the gas can, turn the knob a little and ignite using the flint switch. Good companion but don't expect to make a feast for 10-20 people using this.
+  - For my rations, I typically prefer purchasing them for local markets before I start my trek. These rations generally include rice and lentils along with coffee sachets.
+
 - Navigation
+
+  - [Wikiloc](https://www.wikiloc.com/) There are countless apps for GPS based navigation, I prefer Wikiloc as it comes with a community, which sometimes helps me in selecting few trails while on my trek. Do checkout my [page](https://www.wikiloc.com/wikiloc/user.do?id=18195555) 🫡 and give it a like if you are a fellow user.
+  - [Survey Of India Maps](https://surveyofindia.gov.in/) This option is used by me only when I am feeling a bit adventuorous and want to explore some untrodden routes. It helps a lot in getting familiar with the topology during my planning phase.
+
 - Clothing
 - Accessories
 - 1st Aid Kit
+  - []() qwe
