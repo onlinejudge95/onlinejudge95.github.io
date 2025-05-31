@@ -41,4 +41,10 @@ For the sake of brevity I have categorised the list in sub groups of relevant se
 - Clothing
 - Accessories
 - 1st Aid Kit
-  - []() qwe
+  - [Dettol 60mL](https://www.dettol.co.in/personal-hygiene/antiseptics/dettol-antiseptic-liquid-original-60ml) Your typical antiseptic, used for disinfecting any wound.
+  - [Surgical Tape](https://www.hansaplastindia.com/products/wound-care/fixation-tape) A simple yet good surgical tape to keep any dressing secure.
+  - [Pain Relief Gel](https://www.amazon.in/GoodLife-Alkem-Sumo-Pain-Relief/dp/B09QJY1CJV) A pain relief gel to be used during the nighttime in case the body pain is not bearable, generally for 1st time campers. If you are preparing yourself by workouts before your treks you might not need this, still a good idea in case you are the one giving 1st aid to your fellow traveller.
+  - [Antiseptic Ointment](https://www.amazon.in/Cipladine-Tube-10-gm-Ointment/dp/B0864MXVZ4) An antiseptic ointment that can also be used in case of infections. This can also be used outside treks and should be your staple 1st aid.
+  - [Dolo](https://www.1mg.com/drugs/dolo-650-tablet-74467) The magic pill in every Indian household, use this only for headaches or immense pain, and try to not be too much dependenct on it.
+  - [Vomiford](https://www.1mg.com/drugs/vomiford-md-tablet-318151) Use this in case of any stomach upset, generally due to careless eating in mountains.
+  - ORS sachets, you can get any one of them, just make sure to keep 4-5 with you in case you are the one providing 1st aid to your fellow traveller.
