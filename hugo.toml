@@ -49,7 +49,7 @@ url = "https://gitlab.com/onlinejudge95/"
 name = "Instagram"
 icon = "fa-brands fa-instagram fa-2x"
 weight = 2
-url = "https://www.instagram.com/yet_another_astro_guy/"
+url = "https://www.instagram.com/surf_ed_and_excelled/"
 [[params.social]]
 name = "RSS"
 icon = "fa-solid fa-rss fa-2x"
@@ -63,7 +63,3 @@ type = "application/rss+xml"
 name = "Blog"
 weight = 1
 url  = "posts/"
-[[menu.main]]
-name = "About"
-weight = 2
-url = "about/"
