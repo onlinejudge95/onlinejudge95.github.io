@@ -1,5 +1,5 @@
 +++ 
-draft = true
+draft = false
 date = 2025-05-29T20:21:34+05:30
 title = "My Rucksack"
 description = "Blog describing my travel kit that I use for solo travels along the mighty Himalayas"
@@ -38,8 +38,9 @@ For the sake of brevity I have categorised the list in sub groups of relevant se
   - [Wikiloc](https://www.wikiloc.com/) There are countless apps for GPS based navigation, I prefer Wikiloc as it comes with a community, which sometimes helps me in selecting few trails while on my trek. Do checkout my [page](https://www.wikiloc.com/wikiloc/user.do?id=18195555) 🫡 and give it a like if you are a fellow user.
   - [Survey Of India Maps](https://surveyofindia.gov.in/) This option is used by me only when I am feeling a bit adventuorous and want to explore some untrodden routes. It helps a lot in getting familiar with the topology during my planning phase.
 
-- Clothing
-- Accessories
+<!-- - Clothing -->
+<!-- - Accessories -->
+
 - 1st Aid Kit
   - [Dettol 60mL](https://www.dettol.co.in/personal-hygiene/antiseptics/dettol-antiseptic-liquid-original-60ml) Your typical antiseptic, used for disinfecting any wound.
   - [Surgical Tape](https://www.hansaplastindia.com/products/wound-care/fixation-tape) A simple yet good surgical tape to keep any dressing secure.
